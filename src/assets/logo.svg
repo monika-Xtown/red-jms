@@ -1,0 +1,34 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer scalloped border -->
+  <path d="M200 400C238.4 400 259.2 380.8 284 380.8C312 380.8 332.8 400 360.8 388.8C388.8 377.6 388.8 348.8 396 320.8C403.2 292.8 424 280 424 249.6C424 219.2 403.2 206.4 396 178.4C388.8 150.4 388.8 121.6 360.8 110.4C332.8 99.2 312 118.4 284 118.4C259.2 118.4 238.4 99.2 200 99.2C161.6 99.2 140.8 118.4 116 118.4C88 118.4 67.2 99.2 39.2 110.4C11.2 121.6 11.2 150.4 4 178.4C-3.2 206.4 -24 219.2 -24 249.6C-24 280 -3.2 292.8 4 320.8C11.2 348.8 11.2 377.6 39.2 388.8C67.2 400 88 380.8 116 380.8C140.8 380.8 161.6 400 200 400Z" transform="scale(0.8) translate(50, 50)" fill="#EAB308"/>
+  
+  <!-- Red inner circle -->
+  <circle cx="200" cy="200" r="140" fill="#991B1B"/>
+  <circle cx="200" cy="200" r="140" fill="url(#paint0_radial_logo)"/>
+  
+  <!-- Gold circular border -->
+  <circle cx="200" cy="200" r="145" stroke="#FBBF24" stroke-width="8"/>
+  
+  <!-- Wreath (Simplified) -->
+  <path d="M120 280C120 280 100 240 100 200C100 160 120 120 120 120" stroke="#FBBF24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M280 280C280 280 300 240 300 200C300 160 280 120 280 120" stroke="#FBBF24" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Crown -->
+  <path d="M185 140L175 160H225L215 140L200 150L185 140Z" fill="#FBBF24"/>
+  <circle cx="200" cy="135" r="3" fill="#FBBF24"/>
+  <circle cx="180" cy="135" r="3" fill="#FBBF24"/>
+  <circle cx="220" cy="135" r="3" fill="#FBBF24"/>
+  
+  <!-- SDRS Text -->
+  <text x="200" y="210" text-anchor="middle" fill="#FBBF24" font-family="Arial" font-size="64" font-weight="900">SDRS</text>
+  
+  <!-- Gold Buyers Text -->
+  <text x="200" y="245" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">Gold Buyers</text>
+  
+  <defs>
+    <radialGradient id="paint0_radial_logo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 180) rotate(90) scale(160)">
+      <stop stop-color="#EF4444" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#991B1B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
